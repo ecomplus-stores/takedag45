@@ -1,32 +1,33 @@
 {
-  "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+  "categories_list": {
+    "featured": [
+      "/celulares?CELULARES"
+    ],
+    "random": 0,
+    "full_width": false
   },
+  "menu_all_departments": false,
+  "centralized_logo": false,
+  "marketing_stripe": {
+    "text": "APROVEITE NOSSO PARCELAMENTO EM ATÉ 4 VEZES SEM CARTÃO E SEM JUROS!",
+    "link": "",
+    "background": "#ffffff",
+    "color": "#ea6617"
+  },
+  "alphabetical_order_submenu": false,
+  "popup": "/img/uploads/353_banner638900114891238621.webp",
+  "name_all_departments": "",
+  "search_input": false,
+  "desktop_megamenu": false,
+  "full_width_submenu": false,
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "XIAOMI CONCEPT",
+        "link": ""
       }
     ],
     "phone_wpp": true,
-    "socials": true
-  },
-  "categories_list": {
-    "featured": [],
-    "random": 6,
-    "full_width": false
-  },
-  "centralized_logo": false,
-  "desktop_megamenu": false,
-  "search_input": true,
-  "alphabetical_order_submenu": false,
-  "full_width_submenu": false,
-  "menu_all_departments": false,
-  "name_all_departments": ""
+    "socials": false
+  }
 }
