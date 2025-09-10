@@ -1,22 +1,22 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "Sobre nós",
+    "text": "A Conceito Eletrônicos nasce com o propósito de oferecer smartphones de qualidade, com preços acessíveis e condições de pagamento diferenciadas para atender especialmente o público da região de Rio Verde (GO) e Sudoeste Goiano. Nosso foco é entregar tecnologia atualizada, confiança e proximidade no atendimento.  Em 2025 iniciamos nossa operação com smartphones da linha Xiaomi Redmi, que possuem ótima aceitação entre consumidores que buscam custo-benefício.  Para 2026, nosso plano é ampliar o mix de produtos, consolidar a presença digital por meio da loja online e redes sociais, além de firmar parcerias estratégicas para oferecer opções de parcelamento via Pix.  Nosso objetivo é crescer de forma estruturada, profissionalizando o negócio e expandindo gradualmente para outras categorias de eletrônicos, sempre priorizando transparência, preços competitivos e atendimento diferenciado."
   },
   "links_1": {
-    "list_pages": true,
-    "title": "Páginas",
+    "list_pages": false,
+    "title": "",
     "list": []
   },
   "links_2": {
-    "list_categories": true,
-    "title": "Categorias",
+    "list_categories": false,
+    "title": "",
     "list": []
   },
   "contacts": {
     "title": "Contatos",
     "phone_wpp": true,
-    "socials": true,
+    "socials": false,
     "email": true,
     "address": true
   },
@@ -26,6 +26,9 @@
       "alt": "Secure connection",
       "width": 150,
       "height": 62
+    },
+    {
+      "src": ""
     }
   ],
   "payment_methods": {
@@ -37,5 +40,5 @@
     "hipercard": true,
     "boleto": true
   },
-  "credits": ""
+  "credits": "Paga Leve"
 }
